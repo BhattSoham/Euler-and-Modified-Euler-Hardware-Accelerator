@@ -1,4 +1,4 @@
-# Hardware Accelerator Design for ODE Solvers #
+# Hardware Accelerator Design for ODE Solvers Using Euler and Modified Euler Method #
 
 In this new era of high-performance computing, hardware accelerators play a pivotal role in handling a specific task or closely related set of tasks, offering
 significant performance improvements for those specific functions or operations. Some of these hardware accelerators are integrated into the central processing unit (CPU) itself. Hardware accelerators are meticulously crafted to deliver superior performance, and they often outperform general-purpose CPUs in their designated tasks. Ordinary Differential Equations (ODEs) play a fundamental role in modeling and simulating various dynamical systems. They provide an exact and
