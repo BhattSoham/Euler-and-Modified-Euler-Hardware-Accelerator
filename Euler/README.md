@@ -2,14 +2,6 @@
 The goal of this study is to implement the Euler and modified Euler method of numerical analysis in solving ordinary differential equations. The work has been specifically done using Very High-Speed Integrated Circuit Hardware Descriptive Language (VHDL) in Xilinx Vivado Software. The accelerator is typically deployed on the Zynq ZC702 FPGA Evaluation Kit.
 The work has been accepted for the **IEEE CSCI 2023** conference.
 
-The documentation for downloading Xilinx Vivado and the tutorial for using VHDL has been given below:
-
-Xilinx Vivado: [https://docs.xilinx.com/r/2022.1-English/ug973-vivado-release-notes-install-license/Download-and-Installation]
-
-VHDL Tutorial: [https://www.eecs.umich.edu/courses/doing_dsp/handout/vhdl-tutorial.pdf]
-
-Let's Start!
-
 At first, we have to create a file by going from "Project" to "New". Name the file according to your preference. Use it according to your requirements. We have used the Zynq ZC702 FPGA Evaluation Kit, as it has enough I/O pins, which are useful for deploying it on the FPGA.
 
 The project was first integrated using Xilinx Floating Point IP support and we have used single precision (32-bit) floating point IP for implementing the HW accelerator.
