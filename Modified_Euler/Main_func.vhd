@@ -134,7 +134,7 @@ signal f: std_logic_vector(31 downto 0);
 signal e: std_logic_vector(31 downto 0);
 signal r: std_logic_vector(31 downto 0);
 signal a: std_logic_vector(31 downto 0);
-signal p: std_logic_vector(31 downto 0) := x"3F000000";
+signal p: std_logic_vector(31 downto 0) := x"3d4ccccd";
 signal s_axis_a_tvalid: std_logic := '0';
 signal s_axis_b_tvalid: std_logic := '0';
 signal s_axis_c_tvalid: std_logic := '0';
